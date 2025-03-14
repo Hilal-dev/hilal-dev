@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Hilal 👋
 
-<!--
-**Hilal-dev/hilal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechatronics student passionate about electronics, embedded systems, and software development.  
+I’m currently focused on:
 
-Here are some ideas to get you started:
+- 📈 Developing trading discipline and systems  
+- ⚡ Learning C programming & embedded systems  
+- 🔧 Building real-world electronics with Arduino  
+- 🤖 Developing Discord bots  
+- 🛡 Preparing for a future in ethical hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What you’ll find on my GitHub:
+- `arduino-projects` → My embedded hardware builds and automation systems  
+- `discord-bots` → Simple to advanced bots built using Python/Node.js  
+- `learning-c` → C language practice and microcontroller-focused code  
+- `electronics-lab` → Experimental circuits, schematics, and prototypes
+
+I'm constantly learning and improving my technical skills. Stay tuned for new projects!
+
+---
