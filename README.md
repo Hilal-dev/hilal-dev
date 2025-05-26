@@ -3,7 +3,6 @@
 I'm a Mechatronics student passionate about electronics, embedded systems, and software development.  
 I’m currently focused on:
 
-- 📈 Developing trading discipline and systems  
 - ⚡ Learning C programming & embedded systems  
 - 🔧 Building real-world electronics with Arduino  
 - 🤖 Developing Discord bots  
